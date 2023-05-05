@@ -1,0 +1,28 @@
+*{
+    color: #fff;
+}
+
+
+
+
+
+body {
+    background-color: black;
+
+}
+
+
+.imagem {
+
+    margin: auto;
+    width: 200px;
+}
+
+.projeto {
+    width: 200px;
+    height: auto;
+}
+
+button {
+    color: #000;
+}
